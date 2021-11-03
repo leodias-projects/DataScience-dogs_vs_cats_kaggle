@@ -1,6 +1,8 @@
-# Cats vs Dogs Competiotion by leo
+# Dogs vs Cats Competition by leo
+
+My code for the [Dogs vs Cats Kaggle competition](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition). The competition took part in 2014, so now it is only possible to submit results for checking your results! Dataset can be obtained by the link, and I based my code in [this tutorial](https://www.youtube.com/watch?v=gT4F3HGYXf4).
 
 ## First version
-- First: data pre processing (numpy array, grayscale)
-- Second: First CNN with 2 layers: 50% accuracy
-- Third: Second CNN with 6 layers: 85% accuracy in 15 epochs.
+- data pre processing (numpy array, grayscale)
+- First CNN with 2 layers: 50% accuracy
+- Second CNN with 6 layers: 85% accuracy in 15 epochs.
