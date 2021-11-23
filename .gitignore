@@ -130,8 +130,4 @@ dmypy.json
 
 checkpoint
 .ipynb_checkpoints/
-test1/
-train/
 log/
-train_data.npy
-test_data.npy
