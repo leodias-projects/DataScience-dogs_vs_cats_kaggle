@@ -1,6 +1,6 @@
 # Kaggle Competition by leo
 
-This repository objective is to store my codes for differents Kaggle competitions. The codes are in Jupyter Notebook format, and the competition name is the file name. The datasets used in the competition are also available in the folder datasets.
+This repository objective is to store my codes for differents Kaggle competitions. The codes are in Jupyter Notebook format, and the competition name is the file name. I decided to name the files based on the order I solved the challenges, so 1-dogs_vs_cats is my first participation and was the dogs vs cats challenge. The datasets used in the competition are also available in the folder "datasets".
 
 # Dogs vs Cats
 
